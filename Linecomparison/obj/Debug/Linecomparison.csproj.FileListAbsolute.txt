@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\bin\Debug\Linecomparison.exe.config
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\bin\Debug\Linecomparison.exe
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\bin\Debug\Linecomparison.pdb
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\obj\Debug\Linecomparison.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\obj\Debug\Linecomparison.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\obj\Debug\Linecomparison.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\obj\Debug\Linecomparison.exe
+C:\Users\amakuma6\source\repos\Linecomparison\Linecomparison\obj\Debug\Linecomparison.pdb
